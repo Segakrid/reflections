@@ -2,3 +2,10 @@
 
 Git maakt een .git/ folder aan waarin metadat wordt bijgehouden. Hierin worden (na het toevoegen van files aan git) wijzigingen bijgehouden.
 
+
+--How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+De staging area is een tussenfase tussen aangepaste code en een commit. Als ik 2 afzonderlijke dingen aanpas kan ik die ook nog apart committen.
+Zo kan je makkelijker goede schone commits doen.
+
+
