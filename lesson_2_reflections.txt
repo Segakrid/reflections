@@ -13,4 +13,8 @@ Zo kan je makkelijker goede schone commits doen.
 Door steeds maar 1 logical change per keer in de staging area te zetten. Als er meerdere wijzigingen in 1 file gedaan zijn, moet
 je dus na elke logical change een add doen en een commit.
 
+-- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+Als je een experimentele feature wilt toevoegen kan een branch handig zijn.
+Als je verschillende versies van een project wilt hebben (bijvoorbeeld met verschillende talen)
+ Branches helpen hierbij doordat je verschillende versies kan labelen.
