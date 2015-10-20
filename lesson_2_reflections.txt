@@ -8,4 +8,9 @@ Git maakt een .git/ folder aan waarin metadat wordt bijgehouden. Hierin worden (
 De staging area is een tussenfase tussen aangepaste code en een commit. Als ik 2 afzonderlijke dingen aanpas kan ik die ook nog apart committen.
 Zo kan je makkelijker goede schone commits doen.
 
+-- How can you use the staging area to make sure you have one commit per logical change?
+
+Door steeds maar 1 logical change per keer in de staging area te zetten. Als er meerdere wijzigingen in 1 file gedaan zijn, moet
+je dus na elke logical change een add doen en een commit.
+
 
