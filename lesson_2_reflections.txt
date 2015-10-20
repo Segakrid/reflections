@@ -1,0 +1,4 @@
+-- What happens when you initialize a repo? Why do you need to do it?
+
+Git maakt een .git/ folder aan waarin metadat wordt bijgehouden. Hierin worden (na het toevoegen van files aan git) wijzigingen bijgehouden.
+

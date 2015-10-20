@@ -1,0 +1,41 @@
+-- How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Een diff laat de regels zien waar een verandering heeft plaatsgevonden en de omgeving daarvan.
+Zo heb je snel eventuele bugs gevonden.
+
+-- How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Als tijdens het programmeren een bug introduceert en je wilt terug naar een eerdere versie van een bestand
+waarin je nog geen last had van die bug, kan dat gemakkelijk als je die versie bewaard hebt.
+
+Als er een bug gemeld wordt vanuit de praktijk, kan je makkelijk versies vergelijken en de bug snel opsporen om hem te verdelgen.
+
+-- What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions 
+automatically saved, like Google Docs does?
+
+pros: Je houdt wijzigingen bij op momenten die van belang zijn. Je kan zelf bepalen wanneer het tijd is voor een commit.
+cons: Je kan vergeten te committen en zo kunnen er wijzigingen verloren gaan. Ook kan je zo te grote of juist te kleine commits krijgen.
+
+-- Why do think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file seperately?
+
+Dat is omdat ze in eerste instantie voor andere doeleinden gebruikt worden. Als je een systeem wilt gebruiken voor bestanden die een verband hebben met elkaar,
+is het beter om met sets bestanden te werken om zo makkelijk terug te kunnen naar een werkende set. Als bestanden uitsluitend individueel hun werk doen,
+is het niet nodig om met sets te werken.
+
+-- How can you use the commands git log and git diff to view the history of files?
+
+Om verschillende revisies van een repo te zien gebruik je git log. Dit commando geeft een lijst van commits met revisienummer en commitmessage
+zodat je de geschiedenis van verschillende files kan zien.
+
+
+Als je git diff gebruikt kan je 2 revisies met elkaar vergelijken. Het zal de verschillen tussen de 2 commits weergeven.
+
+-- How might using version control make you more confident to make changes that could break something?
+
+Omdat je altijd terug kan naar een eerdere -werkende- versie van je bestanden. Het is dus niet erg om fouten te maken.
+
+-- Now that you have your workspace set up, what do you want to try using Git for?
+
+Ik zou Git wel willen gebruiken voor het ontwikkelen van scripts voor Pinnacle.
+
+
