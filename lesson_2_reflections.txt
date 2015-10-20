@@ -17,4 +17,9 @@ je dus na elke logical change een add doen en een commit.
 
 Als je een experimentele feature wilt toevoegen kan een branch handig zijn.
 Als je verschillende versies van een project wilt hebben (bijvoorbeeld met verschillende talen)
- Branches helpen hierbij doordat je verschillende versies kan labelen.
+Branches helpen hierbij doordat je verschillende versies kan labelen.
+
+-- How do the diagrams help you visualize the branch structure.
+
+Ze verduidelijken de structuur van de branch doordat je de parent van elke commit kan zien. 
+JE krijgt een overzicht van alle branches.
