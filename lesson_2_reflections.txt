@@ -23,3 +23,7 @@ Branches helpen hierbij doordat je verschillende versies kan labelen.
 
 Ze verduidelijken de structuur van de branch doordat je de parent van elke commit kan zien. 
 JE krijgt een overzicht van alle branches.
+
+-- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Het resultaat is dat we weer 1 overzichtelijke branch hebben met alle commits tot dan toe. Door het weer te geven in een diagram blijft duidelijk welke commits op welke branch zijn gedaan.
