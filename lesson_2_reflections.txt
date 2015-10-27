@@ -27,3 +27,8 @@ JE krijgt een overzicht van alle branches.
 -- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Het resultaat is dat we weer 1 overzichtelijke branch hebben met alle commits tot dan toe. Door het weer te geven in een diagram blijft duidelijk welke commits op welke branch zijn gedaan.
+
+-- What are the pros and cons of automatic merging vs. always doing merges manually?
+
+Voordelen: Snel, minder fouten
+Nadelen: Minder controle, minder zicht op de code.
