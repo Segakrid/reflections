@@ -18,3 +18,10 @@ Branches are parts of clones or forks that can exist on a local machine or in mo
 -- What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefit is that when pulling from GitHub that the changes will not be that big and an easy merge can be done. 
+
+-- How would you collaborate without using git or github? What would be easier, and what would be harder?
+
+I would collaborate bij manually making a central repo and copying it to local machines every time i would be working on it.
+Collaborating without git or github would be much harder because you'll have to manually check changes of collaborators and manually merge files etc..
+
+
